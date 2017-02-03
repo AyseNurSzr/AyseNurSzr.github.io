@@ -7,8 +7,16 @@
 
 body > .container{
 	padding-top: 60px;
+	background-color: powderblue;
 }
 
+
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
 
 img{
 	max-width: 100%;
@@ -57,14 +65,4 @@ footer li a, footer li a:visited, footer a:link, footer a:active {
 footer li a:hover {
 	color: #f08000;
 	text-decoration: none;
-}
-
-body {
-    background-color: powderblue;
-}
-h1 {
-    color: blue;
-}
-p {
-    color: red;
 }
