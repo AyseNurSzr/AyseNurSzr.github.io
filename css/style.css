@@ -10,7 +10,8 @@ body > .container{
 }
 
 h1   {color: red;}
-p    {color: grey;}
+p    {color: grey;
+ border: 3px solid powderblue;}
 h2   {color: purple}
 
 img{
