@@ -10,9 +10,9 @@ body > .container{
 }
 
 h1   {color: red;}
-p    {color: grey;
- border: 3px solid powderblue;}
-h2   {color: purple}
+p    {color: grey;}
+h2   {color: purple
+border: 3px solid powderblue;}
 
 img{
 	max-width: 100%;
